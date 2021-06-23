@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-    <p>Helo</p>
+    <p>Helo Test push setelah berhasil merge pull request</p>
     </>
   );
 }
